@@ -18,4 +18,4 @@
 ![SQLTE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ## ESTATISTICAS
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+![douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=usuarios&hide=contribs,prs)
