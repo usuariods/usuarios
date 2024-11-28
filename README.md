@@ -14,4 +14,4 @@
 
 ## ESTATÍSTICAS
 
-![d.gpvd GitHub stats]( https://github-readme-stats.vercel.app/api?username=bonifacio700&show_icons=true&theme=dracula)
+![douglas kuster GitHub stats]( https://github-readme-stats.vercel.app/api?username=douglas kuster&show_icons=true&theme=dracula)
